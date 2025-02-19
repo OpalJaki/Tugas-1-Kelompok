@@ -1,10 +1,10 @@
 
 ## Disusun oleh Kelompok 4
-- Muhamad Naufal Zaki
-- Muhamad Habibullah
-- Ahmad Faisal Baroka
-- M Rifki Baskara
-- Dio Alfarizi
+1. M.RIFKI BASKARA (09011382429156)
+2. ⁠AHMAD FAISAL BAROKA (09011382429162)
+3. ⁠DIO ALFARIZI (09011382429160)
+4. ⁠M. NAUFAL ZAKI (09011382429154)
+5. HABIBULLAH (09011382429164)
 
 ---
 ## ![image](https://github.com/user-attachments/assets/113a1579-9f67-471e-848d-d85d43409d70)
