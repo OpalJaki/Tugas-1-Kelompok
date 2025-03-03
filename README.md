@@ -42,10 +42,14 @@ HDD terus menjadi lebih kecil dengan diperkenalkannya faktor bentuk 3,5 inci ole
 ## Milestone Perkembangan HDD
 
 1999 – IBM merilis Microdrive dalam kapasitas 170 MB dan 340 MB
+
 2002 – Seagate mengirimkan hard drive Serial ATA pertama MK2001MTN drive 0,85 inci pertama yang dirilis oleh Toshiba dengan kapasitas 2 gigabyte Hard drive 2,5 inci pertama berkapasitas 200 GB yang menggunakan perekaman tegak lurus ( Toshiba )
+
 2007 - Hitachi adalah yang pertama menawarkan hard drive 1 TB dalam faktor bentuk 3,5 inci. 2009 - Western Digital adalah yang pertama menawarkan hard drive 1 TB dalam faktor bentuk 2,5 inci.
+
 2021 – Drive HAMR 20 TB dirilis
 oleh Seagate pada bulan Januari 2021.
+
 2025 - Seagate merilis variasi 36 TB dari lini produk HDD Exos Mozaic 3+
 
 ## ![image](https://github.com/user-attachments/assets/8eda0c76-d8d1-4065-b392-78b1c7cdfee3)
